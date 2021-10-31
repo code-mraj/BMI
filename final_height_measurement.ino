@@ -1,4 +1,4 @@
-#include<LiquidCrystal.h>
+#include<LiquidCrystal.h> // including all dependencies for LCD display
 
 LiquidCrystal lcd(1, 2, 4, 5, 6, 7); //Interface pins of the LCD
 const int trig_pin=9;
