@@ -6,7 +6,7 @@ float calibration_factor =-7050.0;
 #define CLK  2    //constant value.
 
 
-
+// runs only one time
 void setup() {
   Serial.begin(9600);
   Serial.println("HX711 scale demo");
