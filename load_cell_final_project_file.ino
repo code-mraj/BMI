@@ -2,8 +2,8 @@
 
 HX711 scale;
 float calibration_factor =-7050.0;
-#define DOUT  3   //constant value
-#define CLK  2    //constant value
+#define DOUT  3   //constant value.
+#define CLK  2    //constant value.
 
 
 
